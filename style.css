@@ -95,7 +95,7 @@ html{
     color: white;
     font-weight: 600;
     position: relative;
-    
+    left: 16rem;
 }
 
 .main__spanbite{
@@ -109,6 +109,7 @@ html{
 .main__spanbitebtn{
     display: flex;
     position: relative;
+    left: 16rem;
 }
 
 
